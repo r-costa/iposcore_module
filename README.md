@@ -1,4 +1,4 @@
-## IPOscore_module for Clinical Data Visualization and Exploration of postoperative complications in cancer patients.
+## IPOscore module for Clinical Data Visualization and Exploration of postoperative complications in cancer patients.
 
 #Instructions:
 1. Download source code: https://drive.google.com/open?id=1A1sQgmj-XvWgQ2XEL7o8w7sGmOaVABf4 
